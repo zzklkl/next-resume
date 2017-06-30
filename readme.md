@@ -16,7 +16,7 @@
 素材如下：
 
 - 背景图地址为“http://coding.imweb.io/img/project/resume/bg.png”
-- 默认头像地址为“http://coding.imweb.io/img/project/resume/avatar.png”，可以换成自己头像
+- 默认头像地址为“ http://coding.imweb.io/img/project/resume/avatar.png ”，可以换成自己头像
 - icon 可以上 [icomoon](https://icomoon.io/app/#/select) 下载，或者自己设计查找
 - 仓库中“resume.gif”为要实现的效果图，“resume-pc.png”为 pc 上的效果图，“resume-iphone6.png”为 iPhone6 中的效果图
 
