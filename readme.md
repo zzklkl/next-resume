@@ -10,7 +10,6 @@
 
 ## 项目说明
 
-- 仓库：[resume](http://git.imweb.io/imweb-teacher/resume)
 - 目标：制作一个 Web 版个人简历。
 
 素材如下：
